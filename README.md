@@ -44,11 +44,10 @@ O sistema foi criado para demonstrar **conceitos fundamentais da linguagem C**, 
 ```
 /finance-cli
 │
-├── src/
-│   ├── main.c               # Ponto de entrada do sistema
-│   ├── transacoes.c         # Funções de CRUD de transações
-│   ├── transacoes.h         # Header com structs e funções
-│   ├── menu.c               # Funções relacionadas ao menu
+│── main.c               # Ponto de entrada do sistema
+│── transacoes.c         # Funções de CRUD de transações
+│── transacoes.h         # Header com structs e funções
+│── menu.c               # Funções relacionadas ao menu
 │
 ├── data/
 │   └── transacoes.txt       # Arquivo com os dados salvos
@@ -80,6 +79,7 @@ As funções principais são:
 - `excluirTransacao()`  
 - `salvarEmArquivo()`  
 - `carregarDoArquivo()`
+- `exportarRelatorio()`
 
 ---
 
