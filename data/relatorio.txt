@@ -1,0 +1,9 @@
+===== RELATÓRIO DE TRANSAÇÕES =====
+
+1. [Receita] Cavalo - R$ 250.00 (09/03/2004)
+
+===============================
+Total de Receitas: R$ 250.00
+Total de Despesas: R$ 0.00
+Saldo Final:       R$ 250.00
+===============================
